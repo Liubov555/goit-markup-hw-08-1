@@ -1154,7 +1154,12 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 }
 
 .footer__contacts-box {
-    text-align: center
+    text-align: center;
+
+    @media screen and (min-width: 1200px) {
+        margin-right: 70px;
+        text-align: start;
+    }
 }
 
 @media screen and (min-width: 1200px) {
