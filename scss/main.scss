@@ -6,19 +6,20 @@
 @import './base/common';
 @import './base/container';
 @import './base/reset';
-@import './base/card-set';
+@import './base/section.scss';
 
 //components
 @import './components/logo';
 @import './components/page-header';
-@import './components/hero-btn';
+@import './components/hero';
 @import './components/page-footer';
 @import './components/modal-form-wrapper';
+@import './components/cards-set';
 
 //layouts
-@import './components/hero-banner';
-@import './layouts/benefits';
+
 @import './layouts/services';
 @import './layouts/team';
 @import './layouts/clients';
 @import './layouts/portfolio-filter';
+@import './layouts/features';

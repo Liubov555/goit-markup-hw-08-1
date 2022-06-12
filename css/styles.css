@@ -1,4 +1,5 @@
 /*Benefits*/
+/*
 
 .benefits {
     display: flex;
@@ -39,6 +40,7 @@
 }
 
 /*Services*/
+/*
 .section.services {
     padding-top: 0;
     padding-right: 0;
@@ -91,6 +93,7 @@
 }
 
 /*Team*/
+/*
 .team {
     background-color: #F5F4FA;
     padding-right: 0;
@@ -191,6 +194,7 @@
 }
 
 /*Clients*/
+/*
 
 .clients__title {
     margin-bottom: 50px;
@@ -244,6 +248,7 @@
 
 
 /*Основна сторінка Портфоліо*/
+/*
 .filter {
     display: flex;
     justify-content: center;
@@ -302,3 +307,4 @@
     line-height: 1.87;
     color: #757575;
 }
+*/
