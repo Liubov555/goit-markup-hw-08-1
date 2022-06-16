@@ -574,6 +574,7 @@ ol {
 .header-menu.is-open {
   display: block;
   top: 0;
+  position: fixed;
 }
 
 @media screen and (min-width: 768px) {

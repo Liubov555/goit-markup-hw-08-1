@@ -186,6 +186,7 @@ body {
     text-align: center;
     cursor: pointer
 }
+
 .btn {
     box-sizing: border-box;
     height: 38px;
@@ -444,7 +445,8 @@ ol {
 
 .header-menu.is-open {
     display: block;
-    top: 0
+    top: 0;
+    position: fixed;
 }
 
 @media screen and (min-width: 768px) {
@@ -1206,6 +1208,7 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
         margin-bottom: 60px
     }
 }
+
 @media screen and (min-width: 1200px) {
     .footer__container-box {
         margin-right: 70px;
