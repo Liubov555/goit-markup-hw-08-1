@@ -41,9 +41,15 @@
 
 }
 
-.address__list {
+.footer__container-box {
     @media screen and (max-width: 1199.98px) {
         margin-bottom: 60px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .footer__container-box {
+        margin-right: 70px;
     }
 }
 
